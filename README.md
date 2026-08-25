@@ -10,9 +10,7 @@ This project demonstrates the use of HTML for structure, CSS for styling and res
 
 ## 📸 Preview
 
-![Calculator Preview](screenshot.png)
-
-> Replace `screenshot.png` with your actual calculator screenshot, or remove this section if you haven't added a screenshot yet.
+![Calculator Preview](image.png)
 
 ## ✨ Features
 
