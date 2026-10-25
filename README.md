@@ -92,7 +92,7 @@ Some features that can be added in the future:
 
 ## 👨‍💻 Author
 
-**Shikhar Tiwari**
+**Mr. Shikhar Tiwari**
 
 🎓 Integrated BCA & MCA (Data Science)
 
